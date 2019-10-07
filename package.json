@@ -2,12 +2,15 @@
   "name": "nallasivan-personal-profile-reactjs",
   "version": "1.0.1",
   "private": true,
+  "main": ".",
   "dependencies": {
-    "jquery": "^3.2.1",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-ga": "^2.3.5",
-    "react-scripts": "1.0.17"
+    "jquery": "^3.4.1",
+    "prettier": "^1.18.2",
+    "prop-types": "^15.7.2",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-ga": "^2.7.0",
+    "react-scripts": "^3.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -15,8 +18,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "description": "![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true \"ReactJS Resume Website Template\") ### <a href=\"https://react-resume-template.herokuapp.com/\">LIVE DEMO</a>",
-  "main": "index.html",
+  "description": "",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nallasivang/nallasivan-profile-react.git"
@@ -27,7 +29,9 @@
     "url": "https://github.com/nallasivang/nallasivan-profile-react/issues"
   },
   "homepage": "https://github.com/nallasivang/nallasivan-profile-react#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
   "keywords": [
     "Nallasivan",
     "Govindasamy",
