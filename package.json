@@ -1,11 +1,10 @@
 {
   "name": "nallasivan-personal-profile-reactjs",
-  "version": "1.0.1",
-  "private": true,
+  "version": "1.2.1",
+  "private": false,
   "main": ".",
   "dependencies": {
     "jquery": "^3.4.1",
-    "prettier": "^1.18.2",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
@@ -29,18 +28,16 @@
     "url": "https://github.com/nallasivang/nallasivan-profile-react/issues"
   },
   "homepage": "https://github.com/nallasivang/nallasivan-profile-react#readme",
-  "devDependencies": {
-    "prettier": "^1.18.2"
-  },
+  "devDependencies": {},
   "keywords": [
-    "Nallasivan",
-    "Govindasamy",
-    "Nallasivan",
-    "Architect",
-    "Nallasivan",
-    "G",
-    "Nallasivan",
-    "Profile",
-    "Resume"
+    "Nallasivan Govindasamy",
+    "Govindasamy Nallasivan",
+    "Nallasivan G",
+    "Architect React Nallasivan",
+    "Nallasivan ReactJS",
+    "Online Resume Nallasivan G",
+    "NallasivanG",
+    "Profile Nallasivan G",
+    "Resume Nalls G"
   ]
 }
