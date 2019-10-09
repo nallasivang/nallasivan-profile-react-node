@@ -1,15 +1,15 @@
 {
   "name": "nallasivan-personal-profile-reactjs",
   "version": "1.0.1",
-  "private": true,
+  "private": false,
   "main": ".",
   "dependencies": {
     "jquery": "^3.4.1",
-    "prop-types": "^15.6.0",
-    "react": "16.9.0",
-    "react-dom": "16.9.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
     "react-ga": "^2.7.0",
-    "react-scripts": "^1.0.0"
+    "react-scripts": "^3.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -31,13 +31,14 @@
   "devDependencies": {
   },
   "keywords": [
-    "Nallasivan",
-    "Govindasamy",
-    "Nallasivan",
-    "Architect",
-    "NallasivanG",
+    "Nallasivan Govindasamy",
+    "Govindasamy Nallasivan",
     "Nallasivan G",
-    "ReactJS Profile",
-    "Perfect Resume"
+    "Architect React Nallasivan",
+    "Nallasivan ReactJS",
+    "Online Resume Nallasivan G",
+    "NallasivanG",
+    "Profile Nallasivan G",
+    "Resume Nalls G"
   ]
 }
