@@ -1,6 +1,6 @@
 {
   "name": "nallasivan-personal-profile-reactjs",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "private": false,
   "main": ".",
   "dependencies": {
@@ -9,7 +9,7 @@
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-ga": "^2.7.0",
-    "react-scripts": "^3.2.0"
+    "create-react-scripts": "^3.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -39,17 +39,6 @@
     "NallasivanG",
     "Profile Nallasivan G",
     "Resume Nalls G"
-  ],
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+  ]
+  
 }
